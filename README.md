@@ -7,5 +7,6 @@ I am keen on learning data analysis and new programing languages.
 
 Currently I've been improving my knowledge and skills of python, julia and numpy.
 
+email: halastomasz00@gmail.com
 
 
