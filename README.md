@@ -1,4 +1,4 @@
-Hi, I am # Tomasz Hałas  
+Hi, I am Tomasz Hałas  
 
 I am a Master's student in **Artificial Intelligence** at the **Wrocław University of Science and Technology**. I hold previous degrees in:  
 - **Algorithmic Informatics** (Grade: 5.0) (2019–2023)  
