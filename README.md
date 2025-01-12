@@ -1,9 +1,25 @@
-Hi, I'm Tomasz Hałas!
+Hi, I am # Tomasz Hałas  
 
-I am a BSc student in Algorithmic Computer Science on Faculty of Fundamental Problems of Technology 
-and Applied Mathematics on Faculty of Pure and Applied Mathematics in Wrocław University of Science and Technology.
+I am a Master's student in **Artificial Intelligence** at the **Wrocław University of Science and Technology**. I hold previous degrees in:  
+- **Algorithmic Informatics** (Grade: 5.0) (2019–2023)  
+- **Applied Mathematics** (Grade: 4.5) (2020–2024)  
+- Research Exchange Program at the **Tokyo Shibaura Institute of Technology**  
 
-I am keen on learning data analysis and new programing languages.
+Feel free to reach out to me at: **halastomasz00@gmail.com**  
 
-Currently I've been improving my knowledge and skills of Python, Julia and Probability Theory
+---
 
+## Academic Interests  
+I am deeply passionate about exploring and contributing to the following areas:  
+- **Generative AI**  
+- **Representation Learning**  
+- **Probabilistic Graph Theory**  
+- **Computer Vision**  
+
+---
+
+## Hobbies & Aspirations  
+As a lifelong learner, I dedicate myself to constant growth and exploration. My hobbies and pursuits include:  
+- Coding and expanding my knowledge in **Artificial Intelligence**  
+- Exploring and understanding **financial and stock markets**  
+- Reading **research papers** to stay updated on the latest advancements in models, algorithms, and optimization techniques  
